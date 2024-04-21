@@ -1,6 +1,16 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) & is a clone of one of the earlier versions of [Flexikitch website](https://flexikitch.com.au/) and it is developed only for learning purpose.
+
+Slick carousel@^1.8.1 & react-slick@^0.28.1 for Carousels
+
+react-responsive@^9.0.0-beta.5 to make it responsive
+
+react-router-dom@^6.0.2 for Routing 
+
+react-redux@^7.2.6 for cart's state management
+
+react-bootstrap, node-sass & styled-components for styling & CSS
 
 ## Available Scripts
 
